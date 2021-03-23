@@ -15,7 +15,6 @@ Steps:
 # If You Do Not Trust ME!
 
 You Can Always Check Out My Youtube Video Of Me Using It! 
-AND You Can Check out The Source!
 
 #  Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
